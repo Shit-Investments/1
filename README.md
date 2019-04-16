@@ -4,7 +4,7 @@
 
 <h4>The Backstory</h4>
 
-There’s speculation* that the cause* of the Notre Dame burning was an illegal BCHSV mining operation* by Craig Wright*, the self-proclaimed, unproven Satoshi Nakamoto.  
+There’s speculation* that the cause* of the Notre Dame burning was an illegal BSV mining operation* by Craig Wright*, the self-proclaimed, unproven Satoshi Nakamoto.  
 
 Craig Wright can’t seem to catch a break recently.  His cryptocurrency BSV was delisted from Binance, one of the largest crypto exchanges, due to his "insane claims and misleading information".  Kraken and Shapeshift were quick to join in on delisting of BCHSV.  
 
