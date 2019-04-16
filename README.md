@@ -8,11 +8,11 @@ There’s speculation* that the cause* of the Notre Dame burning was an illegal 
 
 Craig Wright can’t seem to catch a break recently.  His cryptocurrency BSV was delisted from Binance, one of the largest crypto exchanges, due to his "insane claims and misleading information".  Kraken and Shapeshift were quick to join in on delisting of BCHSV.  
 
-The 800 year old wood in the historic Notre Dame church, was said to catch fire causing the whole building to go up in flames.  Speculation that the heat from the BCHSV mining rigs caused a spark that ultimately ignited the fire.  
+The 800 year old wood in the historic Notre Dame church, was said to catch fire causing the whole building to go up in flames.  Speculation that the heat from the BSV mining rigs caused a spark that ultimately ignited the fire.  
 
 Thankfully there were no deaths in the fire, however Notre Dame is said to be “France’s history” in the words of French President, Macron.  If these claims are true, there could be serious consequences*. 
 
-The rest of the crypto industry is distancing themselves from Craig Wright and BCHSV and showing their condolences to the French disaster.
+The rest of the crypto industry is distancing themselves from Craig Wright and BSV and showing their condolences to the French disaster.
 
 <a class="button button--blue" href="http://bit.ly/2PeKwYe">Try your luck at the WORLD's WORST CRYPTO Portfolio for FREE</a>
 
