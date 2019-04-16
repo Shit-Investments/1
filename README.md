@@ -1,5 +1,7 @@
 <h2>Illegal BCHSV Mining Operation Burns down Notre Dame?</h2>
 
+![Photo](https://ichef.bbci.co.uk/news/624/cpsprodpb/08DA/production/_106466220_053452470-1.jpg)
+
 <h4>The Backstory</h4>
 
 There’s speculation* that the cause* of the Notre Dame burning was an illegal BCHSV mining operation* by Craig Wright*, the self-proclaimed, unproven Satoshi Nakamoto.  
