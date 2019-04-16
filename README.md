@@ -1,4 +1,4 @@
-<h2>Illegal BCHSV Mining Operation Burns down Notre Dame?</h2>
+<h2>Illegal BSV Mining Operation Burns down Notre Dame?</h2>
 
 ![Photo](https://ichef.bbci.co.uk/news/624/cpsprodpb/08DA/production/_106466220_053452470-1.jpg)
 
@@ -6,7 +6,7 @@
 
 There’s speculation* that the cause* of the Notre Dame burning was an illegal BCHSV mining operation* by Craig Wright*, the self-proclaimed, unproven Satoshi Nakamoto.  
 
-Craig Wright can’t seem to catch a break recently.  His cryptocurrency BCHSV was delisted from Binance, one of the largest crypto exchanges, due to his "insane claims and misleading information".  Kraken and Shapeshift were quick to join in on delisting of BCHSV.  
+Craig Wright can’t seem to catch a break recently.  His cryptocurrency BSV was delisted from Binance, one of the largest crypto exchanges, due to his "insane claims and misleading information".  Kraken and Shapeshift were quick to join in on delisting of BCHSV.  
 
 The 800 year old wood in the historic Notre Dame church, was said to catch fire causing the whole building to go up in flames.  Speculation that the heat from the BCHSV mining rigs caused a spark that ultimately ignited the fire.  
 
